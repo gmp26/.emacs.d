@@ -3,6 +3,9 @@
 If you're new to emacs, check out
 [this introductory tutorial](http://www.braveclojure.com/basic-emacs/)!
 
+### Local additions
+M-g is mapped to the command 'goto-line
+
 ## Organization
 
 I've tried to separate everything logically and document the purpose
